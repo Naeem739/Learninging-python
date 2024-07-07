@@ -21,4 +21,4 @@ class Bank:
 my = Bank(500)
 my.deposit(100)
 my.withdraw(300)
-my.balance
+print(my.balance)
